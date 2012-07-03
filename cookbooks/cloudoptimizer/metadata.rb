@@ -2,7 +2,7 @@ maintainer "CloudOpt, Inc."
 maintainer_email "support@cloudopt.com"
 license "All rights reserved"
 description "Installs/Configures/Removes CloudOptimizer"
-long_description IO.read(File.join(File.dirname(__FILE__), 'README.rdoc'))
+#long_description IO.read(File.join(File.dirname(__FILE__), 'README.rdoc'))
 version "0.48"
 recipe "cloudoptimizer::cloudoptcommon", "CloudOpt common functions and methods"
 recipe "cloudoptimizer::cloudopt_setup_mail", "Alternate mail setup script"
