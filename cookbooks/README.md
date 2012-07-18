@@ -1,4 +1,5 @@
-== Overview
+Overview
+========
 
 This directory contains chef cookbooks that CloudOpt uses to install and configure our products on RightScale.
 
@@ -6,7 +7,8 @@ It also contains cookbooks that we use internally.
 
 Only the cloudoptimizer cookbook is supported.
 
-== Cookbooks
+Cookbooks
+=========
 
 * cloudoptimizer - Install and manage CloudOptimizer on RightScale
 * mediawiki - Install and manage MediaWiki on RightScale - developed for our internal use
